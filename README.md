@@ -12,7 +12,7 @@ The **ESCR**, on the other hand, extends the SCR calculation by incorporating an
 - **Output**: Saves the calculated SCR and ESCR values in the same Excel file.
 - **Mathematical Calculations**: Utilizes mathematical formulas for SCR and ESCR, with an added factor for system interactions in the ESCR calculation.
 
-### **Key Formulas**
+## Key Formulas
 
 - **SCR**: The Short Circuit Ratio (SCR) at node \(i\) is calculated as:  
   \[
@@ -35,11 +35,10 @@ The **ESCR**, on the other hand, extends the SCR calculation by incorporating an
 - **Dependencies**:
   - `openpyxl`: For reading and writing Excel files.
   - `math`: For mathematical calculations (e.g., square root for ESCR calculation).
+ 
+## Contact
+If you have any questions, feel free to reach out:
 
-Install the dependencies using:
-```bash
-pip install openpyxl
+- **Linkedin**: www.linkedin.com/in/bartu-badem-4a726b283
 
-### Key Additions:
-- **Contact Information**: If you have any questions, feel free to reach out: www.linkedin.com/in/bartu-badem-4a726b283
-  
+
