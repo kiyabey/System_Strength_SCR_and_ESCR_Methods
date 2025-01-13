@@ -40,8 +40,6 @@ Install the dependencies using:
 ```bash
 pip install openpyxl
 
-#### **Contact**
-
-If you have any questions, feel free to reach out:
-- **Linkedin**: www.linkedin.com/in/bartu-badem-4a726b283
-
+### Key Additions:
+- **Contact Information**: If you have any questions, feel free to reach out: www.linkedin.com/in/bartu-badem-4a726b283
+  
